@@ -1,3 +1,6 @@
+
+add, add, & add!
+
 ## Sites
 [Creative Applications Network](http://www.creativeapplications.net/)
 
@@ -8,6 +11,8 @@
 [School for Poetic Computation](http://sfpc.io/)
 
 [Studio for Creative Inquiry](http://studioforcreativeinquiry.org/)
+
+[Creative Coding Podcast](http://creativecodingpodcast.com)
 
 ## People
 [Memo Akten](http://www.memo.tv/)
@@ -23,6 +28,8 @@
 [Aaron Koblin](http://www.aaronkoblin.com/)
 
 [Golan Levin](http://www.flong.com/)
+
+[Seb Lee-Delisle](http://seb.ly)
 
 [Zach Lieberman](http://thesystemis.com/)
 
