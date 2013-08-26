@@ -10,6 +10,7 @@
 6. download and setup openframeworks
 7. successfully run an openframeworks project, screen record it, and upload to vimeo
 8. fork class git, and make a pull request to the link of your video on vimeo
+9. read
 
 
 #### 1. Github
@@ -72,3 +73,7 @@ Run any project, capture a few seconds of it as proof, and upload that video to 
 #### 8. Fork & Pull
 Fork the ArtCodeInteractivity repository into your account. Edit the links.md file with your name and vimeo link. Create a pull request of the file for your changes to be integrated.
 
+#### 9. Read
+_Programming Interactivity_, Chapter 1, optional
+
+_Programming Interactivity_, Chapter 2, look through and try to get a feel for what we'll be dealing with when working with code. It's ok to not totally understand it. 

@@ -1,0 +1,32 @@
+## Sites
+[Creative Applications Network](http://www.creativeapplications.net/)
+[Create Digial Motion](http://createdigitalmotion.com/)
+[eyeo festival](http://eyeofestival.com/)
+[School for Poetic Computation](http://sfpc.io/)
+[Studio for Creative Inquiry](http://studioforcreativeinquiry.org/)
+
+## People
+[Memo Akten](http://www.memo.tv/)
+[Syed Reza Ali](http://www.syedrezaali.com/blog/)
+[Mr Doob](http://www.mrdoob.com/)
+[Ben Fry](http://benfry.com/)
+[Robert Hodgin](http://roberthodgin.com/)
+[Aaron Koblin](http://www.aaronkoblin.com/)
+[Golan Levin](http://www.flong.com/)
+[Zach Lieberman](http://thesystemis.com/)
+[John Maeda](http://www.maedastudio.com/index.php)
+[Kyle McDonald](http://kylemcdonald.net/)
+[Joshua Noble](http://thefactoryfactory.com/)
+[Casey Reas](http://reas.com/)
+[Evan Roth](http://blog.evan-roth.com/)
+[Camille Utterback](http://camilleutterback.com/)
+[Fernanda Viégas](http://fernandaviegas.com/)
+[Theo Watson](http://www.theowatson.com/)
+
+## Software
+[OF](http://www.openframeworks.cc/)
+[cinder](http://libcinder.org/)
+[processing](http://processing.org/)
+[max/msp](http://cycling74.com/products/max/)
+[pd](http://puredata.info/)
+[vvvv](http://vvvv.org/)
