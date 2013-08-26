@@ -35,6 +35,8 @@ add, add, & add!
 
 [John Maeda](http://www.maedastudio.com/index.php)
 
+[Julien Maire](http://julienmaire.ideenshop.net)
+
 [Kyle McDonald](http://kylemcdonald.net/)
 
 [Joshua Noble](http://thefactoryfactory.com/)
@@ -42,6 +44,8 @@ add, add, & add!
 [Casey Reas](http://reas.com/)
 
 [Evan Roth](http://blog.evan-roth.com/)
+
+[Niklas Roy](http://www.niklasroy.com/workshop/148)
 
 [Camille Utterback](http://camilleutterback.com/)
 
