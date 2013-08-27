@@ -17,7 +17,7 @@
 Head over to [github](https://github.com/) and create a free account. You may want to additionally install their applications [osx](http://mac.github.com) or [windows](http://windows.github.com). For [linux](https://help.github.com/articles/set-up-git#platform-linux) it's command line. On any platform, say yes if it asks about command line git or tools. If you want a student micro plan for private repositories, then ask [github edu](https://github.com/edu).
 
 #### 2. Vimeo
-Now to [Vimeo](https://vimeo.com/) and create a free account. Groups you may want to join/follow: [OF](https://vimeo.com/groups/openframeworks), [eyeo](https://vimeo.com/eyeofestival), [kinect](https://vimeo.com/groups/kinect)
+Now to [Vimeo](https://vimeo.com/) and create a free account. Groups you may want to join/follow: [OF](https://vimeo.com/groups/openframeworks), [eyeo](https://vimeo.com/eyeofestival), [kinect](https://vimeo.com/groups/kinect), [resonate](https://vimeo.com/resonateio)
 
 #### 3. Screen recording 
 > __OSX__ 

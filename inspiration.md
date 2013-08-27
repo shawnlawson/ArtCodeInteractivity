@@ -41,6 +41,8 @@ add, add, & add!
 
 [Joshua Noble](http://thefactoryfactory.com/)
 
+[Julian Oliver](http://julianoliver.com/output/category/projects)
+
 [Casey Reas](http://reas.com/)
 
 [Evan Roth](http://blog.evan-roth.com/)
