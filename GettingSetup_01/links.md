@@ -7,4 +7,6 @@ http://nooooooooooooooo.com/
 
 [Gordon Clement](https://vimeo.com/user9467556)
 
+[Lindsay Karty](https://vimeo.com/user9070742)
+
 [Ronald Sardarian:](https://vimeo.com/user17630005)
