@@ -3,6 +3,7 @@
 Not from vimeo, but will probably prove useful as the semester progresses:  
 http://nooooooooooooooo.com/
 
+[Brian Cook:](https://vimeo.com/73320793)
 
 [Tim Cantwell's Vimeo](https://vimeo.com/user20463132/videos)
 
