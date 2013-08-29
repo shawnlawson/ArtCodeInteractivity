@@ -11,7 +11,7 @@ http://nooooooooooooooo.com/
 
 [Kelly Fox](https://vimeo.com/73354144)
 
-[Lindsay Karty](https://vimeo.com/user9070742)
+[Lindsay Karty](https://vimeo.com/73384172)
 
 [Ryan Maxfield....](https://vimeo.com/73252582)
 
