@@ -28,6 +28,7 @@ Also check RPI Library's Safari On-line collection for these.
 - [GIT Visual CheatSheet](http://ndpsoftware.com/git-cheatsheet.html)
 - [Git Simple](http://rogerdudler.github.io/git-guide/)
 - [Another Reference](http://marklodato.github.io/visual-git-guide/index-en.html)
+- [git video](http://www.codeschool.com/courses/try-git)
 
 #### Arduino
 - [Arduino Tutorial](http://arduino.cc/en/Tutorial/HomePage)
