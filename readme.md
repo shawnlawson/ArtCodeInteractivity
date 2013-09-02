@@ -32,6 +32,12 @@ Also check RPI Library's Safari On-line collection for these.
 
 #### Arduino
 - [Arduino Tutorial](http://arduino.cc/en/Tutorial/HomePage)
+- [Arduino kit page](https://www.sparkfun.com/products/retired/11227)
+- [SIK Guide](http://dlnmh9ip6v2uc.cloudfront.net/datasheets/Kits/SFE03-0012-SIK.Guide-300dpi-01.pdf)
+- [SIK Example Code](http://dlnmh9ip6v2uc.cloudfront.net/datasheets/Kits/SIK%20Guide%20Code.zip)
+- [Arduino Cheat Sheet](https://learn.sparkfun.com/curriculum/8)
+- [Sparkfun learning](https://learn.sparkfun.com)
+- [Electronics Tutorials](https://learn.sparkfun.com/tutorials)
 
 #### Markdown
  - [Markdown?](http://en.wikipedia.org/wiki/Markdown)
