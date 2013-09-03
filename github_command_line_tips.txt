@@ -1,0 +1,41 @@
+This is just a list of a few commands for keeping your fork of the ArtCodeInteractivity repo up-to-date from Shawn's.
+
+First, make sure you have a fork of the repo in the first place.  I'm pretty sure we all do.
+
+Second, you need a local copy of your fork.  Go to the directory/folder you want it in, and type:
+
+	git init
+
+This sets up the directory to handle git repositories.
+
+Then type:
+
+	git clone https://github.com/<your git id goes here>/ArtCodeInteractivity.git
+
+This creates a directory called ArtCodeInteractivity in the current directory, and downloads all the files to your machine.
+
+Next, you need to tell git where to find the original shawnlawson repository:
+
+	git remote add upstream https://github.com/shawnlawson/ArtCodeInteractivity.git
+
+Now, you're set up to pull and merge updates from shawnlawson's:
+
+	git pull upstream master
+
+That last command is the only one you need thereafter.
+
+Once more, to setup:
+
+
+	git init
+	git clone https://github.com/<your git id goes here>/ArtCodeInteractivity.git
+	git remote add upstream https://github.com/shawnlawson/ArtCodeInteractivity.git
+
+Then:
+
+	git pull upstream master
+
+as needed.
+
+~morrij8
+
