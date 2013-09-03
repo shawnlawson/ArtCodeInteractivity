@@ -9,7 +9,7 @@ http://nooooooooooooooo.com/
 
 [Tim Cantwell's Vimeo](https://vimeo.com/user20463132/videos)
 
-[Gordon Clement](https://vimeo.com/user9467556)
+[Gordon Clement](https://vimeo.com/album/2514828)
 
 [Kelly Fox](https://vimeo.com/73354144)
 
