@@ -2,13 +2,13 @@
 
 ### Goals:
 
-1. 
+1. Team Up
 2. 
-3. 
-4. read
+3. Input/Output
+4. Read
 
 
-#### 1. Github
+#### 1. Team Up
 
 
 #### 2. 
