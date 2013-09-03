@@ -13,6 +13,8 @@ http://nooooooooooooooo.com/
 
 [Kelly Fox](https://vimeo.com/73354144)
 
+[Neale Johnson](https://vimeo.com/73711933)
+
 [Lindsay Karty](https://vimeo.com/73384172)
 
 [Altan Gulen](https://vimeo.com/73438674)
@@ -30,6 +32,4 @@ http://nooooooooooooooo.com/
 [Brian Tam](https://vimeo.com/73272787)
 
 [Scott Todd](https://vimeo.com/73277576)
-
-
 
