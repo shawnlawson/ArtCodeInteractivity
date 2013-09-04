@@ -20,6 +20,6 @@ You're not required to use the Arduino Kits, if you're more comfortable with som
 
 
 #### 4. Read
-_Programming Interactivity_, Chapter 4, 
+_Programming Interactivity_, Chapter 4, What is this thing, what's going on, how do I use this?
 
-_Programming Interactivity_, Chapter 7, 
+_Programming Interactivity_, Chapter 7, Good for thinking about ideas.
