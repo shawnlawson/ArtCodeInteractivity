@@ -5,6 +5,7 @@
 1. See and Hear
 2. Paperize
 3. Read
+4. Read More
 
 
 #### 1. See and Hear
@@ -27,3 +28,6 @@ _Programming Interactivity_, Chapter 9, Pixel data.
 _Programming Interactivity_, Chapter 10, Sound. 
 
 _Programming Interactivity_, Chapter 13, This one is also up to you: 3D. Or just the shader part on pages 520 - 529.
+
+#### 4. Read More
+A few more things to read are in the [google drive here](https://drive.google.com/folderview?id=0BwTG9v1wttXLV0UtZmJMNkVkRzA&usp=sharing). We won't have time to directly talk about them, but are good to think about. 
