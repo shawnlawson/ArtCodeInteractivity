@@ -21,7 +21,7 @@ _Programming Interactivity_, Chapter 14, Motion and Gestures.
 
 [Hands Up!](http://www.flong.com/texts/essays/essay_pose/)
 
-[Computer Vision for Artsits and Designers](http://www.flong.com/texts/essays/essay_cvad/)
+[Computer Vision for Artists and Designers](http://www.flong.com/texts/essays/essay_cvad/)
 
 [Informal Catalogue of Slit-Scan Video Artworks and Research](http://www.flong.com/texts/lists/slit_scan/)
 
