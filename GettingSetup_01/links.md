@@ -42,4 +42,3 @@ http://nooooooooooooooo.com/
 [Ryan Gimson] (https://vimeo.com/74238391)
 
 [Michelle Lehner] (https://vimeo.com/104727185)
-[Michelle]
